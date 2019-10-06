@@ -1,2 +1,2 @@
 # Password_Manager
-Simple android project using MVVM architecture components.
+Simple android project using MVVM architecture components like ViewModel.
